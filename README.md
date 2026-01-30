@@ -22,13 +22,14 @@ This project predicts **drone battery warning levels** from sensor data. It comb
 - Class imbalance handling: **class weighting** and **SMOTE**  
 
 ## Deliverables
-- `index.html` (or `drone-battery-warning-report.html`): full analysis report (exported HTML)
+- `drone_warning_report.html` — full analysis report (exported HTML)
 
-## How to view the report | 如何查看
-- Download the HTML and open in a browser (Chrome/Safari).  
-- (Optional) Enable **GitHub Pages** for a public web preview:
-  1) Keep the report as `index.html`
-  2) Repo → Settings → Pages → Deploy from branch (main / root)
+## How to view the report
+- Option A (recommended): Open the report locally  
+  1) Click `drone_warning_report.html` in this repo  
+  2) Click **Download** (or **View raw**)  
+  3) Open the downloaded file in a browser (Chrome/Safari)
+
 
 ## Author
 Shu-Yu Lin
