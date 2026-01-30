@@ -28,12 +28,12 @@ This project predicts **drone battery warning levels** from sensor data. It comb
 
 **Report file:** `drone_warning_report.html`
 
-### Option A (recommended): Open locally | 下載後在本機開啟（最穩）
+### Option A (recommended): Open locally
 1. Click `drone_warning_report.html` in this repo
 2. Click **Download** (or **View raw**)
 3. Open the downloaded file with Chrome / Safari
 
-### Option B (optional): GitHub Pages web preview | GitHub Pages 線上預覽（可選）
+### Option B (optional): GitHub Pages web preview
 If you want a shareable web link for the HTML report:
 1. (Recommended) rename `drone_warning_report.html` → `index.html`
 2. Repo → **Settings** → **Pages**
